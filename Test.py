@@ -1,2 +1,2 @@
-b=100
-print(b)
+c=10000
+print(c)
